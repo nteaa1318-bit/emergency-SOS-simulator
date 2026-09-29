@@ -64,3 +64,17 @@ emergency_SOSsimulator/
 |--README.md
 |--statement.md
 
+## How to Run
+
+1. Open the project folder in VS Code
+2. Run:
+   python main.py
+3. Follow the options shown in the terminal
+
+## Testing
+Automated tests are included in the tests folder.
+
+Run them using:
+
+python -m pytest
+
